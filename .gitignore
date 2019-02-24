@@ -1,2 +1,5 @@
+data/
+\.idea/
+__pycache__/
 
-*.ipynb
+notebooks/\.ipynb_checkpoints/
